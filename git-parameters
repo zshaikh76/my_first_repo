@@ -1,0 +1,3 @@
+read -p "GitHub_Username: " GitUSER
+read -p -x "Github Password: " GitPass
+read -p "Git Repo Name: " GitRepoName

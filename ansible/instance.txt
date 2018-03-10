@@ -1,0 +1,4 @@
+[web]
+Private_ip_of_target_ec2
+[db]
+34.227.117.155
